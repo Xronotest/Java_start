@@ -4,6 +4,14 @@ public class Main
 {
     public static void main(String[] args)
     {
+        Cat BR_76 = new Cat("Main-kun", "Fight-helicopter", "BR_76", 3, "green");
+
+        BR_76.sayMeow();
+
+    }
+    /*
+    public static void main(String[] args)
+    {
         var v = "String";
         Integer I = 25;
         int j = 25;
@@ -24,4 +32,5 @@ public class Main
 
         int[] arr1;
     }
+     */
 }
